@@ -37,6 +37,7 @@ form h2{
     margin-bottom: 20px;
     display: flex;
     align-items: center;
+    border-radius: 5px;
 }
 
 .input-container input{
